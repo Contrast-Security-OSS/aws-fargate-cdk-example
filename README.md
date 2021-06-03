@@ -1,1 +1,1 @@
-# aws-fargate-example-2
+# aws-fargate-cdk-example
