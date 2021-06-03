@@ -1,6 +1,8 @@
 # aws-fargate-cdk-example
 
-The code in this github repository gives a step-by-step instruction on how to integrate a Contrast Security agent with an application being deployed to an Amazon EKS cluster via AWS Fargate.
+The code in this github repository gives a step-by-step instruction on how to templatize and scale an EKS/Fargate/Contrast Security implementation via AWS CDK.
+
+The instructions assume that the user has knowledge of how to integrate a Contrast Security agent with an application being deployed to an Amazon EKS cluster via AWs Fargate - for more information, please refer to [this]() repository.
 
 ![Contrast Fargate-EKS-cdk Integration Example](/diagrams/aws-fargate-contrast-security-integration-2.png)
 
